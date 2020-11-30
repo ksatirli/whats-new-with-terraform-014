@@ -17,4 +17,4 @@ Note the [.terraform.lock.hcl](https://github.com/ksatirli/whats-new-with-terraf
 
 The lock file (`.terraform.lock.hcl`) contains an overview of all the providers and their respective hashes and any other relevant information.
 
-<small>Please note: for the purpose of this showcase, only the [random Provider](https://registry.terraform.io/providers/hashicorp/random/latest) is used.</small>
+⚠️ Please note: for the purpose of this showcase, only the [random Provider](https://registry.terraform.io/providers/hashicorp/random/latest) is used.
