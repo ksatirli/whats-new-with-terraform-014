@@ -4,8 +4,6 @@ From the Terraform `0.14` [CHANGELOG](https://github.com/hashicorp/terraform/blo
 
 > `terraform init` will now generate a lock file in the configuration directory which you can check in to your version control so that Terraform can make the same version selections in future.
 
-
-
 * Terraform documentation: [Command: init](https://www.terraform.io/docs/commands/init.html)
 * GitHub PR / Issue: [#26524](https://github.com/hashicorp/terraform/pull/26524)
 
