@@ -2,10 +2,10 @@
 
 From the Terraform `0.14` [CHANGELOG](https://github.com/hashicorp/terraform/blob/v0.14/CHANGELOG.md):
 
-> `terraform init` will now generate a lock file in the configuration directory which you can check in to your version control so that Terraform can make the same version selections in future.
+> Terraform will now support reading and writing all compatible state files, even from future versions of Terraform.
 
-* Terraform documentation: [remote_state Data Source](https://www.terraform.io/docs/providers/terraform/d/remote_state.html)
-* GitHub PR / Issue: [#26752](https://github.com/hashicorp/terraform/issues/26752)
+* Terraform documentation: [State](https://www.terraform.io/docs/state/index.html#format)
+* GitHub PR / Issue: [#26752](https://github.com/hashicorp/terraform/pull/26752)
 
 ---
 
