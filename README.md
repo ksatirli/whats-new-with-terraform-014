@@ -15,7 +15,7 @@
 * [CLI Enhancement: Provider Lock files](https://github.com/ksatirli/whats-new-with-terraform-014/tree/main/terraform-init)
 * [Core Enhancement: Mark variables as sensitive](https://github.com/ksatirli/whats-new-with-terraform-014/tree/main/sensitive-variables)
 * [Core Enhancement: Reading and Writing State files from multiple versions](https://github.com/ksatirli/whats-new-with-terraform-014/tree/main/reading-state-files)
-* [Enhancements: `alltrue and `anytrue`](https://github.com/ksatirli/whats-new-with-terraform-014/tree/main/alltrue-anytrue)
+* [Enhancements: `alltrue` and `anytrue`](https://github.com/ksatirli/whats-new-with-terraform-014/tree/main/alltrue-anytrue)
 
 ## Author Information
 
