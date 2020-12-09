@@ -2,3 +2,5 @@
 *.tfstate*
 *.tfstate.*
 *.tfplan*
+!reading-state-files/terraform-013-state/terraform.tfstate
+!reading-state-files/terraform-014-state/terraform.tfstate
