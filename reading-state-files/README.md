@@ -11,6 +11,4 @@ From the Terraform `0.14` [CHANGELOG](https://github.com/hashicorp/terraform/blo
 
 ## What's new
 
-TODO TODO TODO
-
 ⚠️ Please note: for the purpose of this showcase, the Terraform State file has been added to version control. This is generally not considered to be a best-practice.
