@@ -6,13 +6,16 @@
 
 - [HashiCorp Terraform 0.14](#hashicorp-terraform-014)
   - [Table of Contents](#table-of-contents)
-  - [Reading material](#reading-material)
+  - [Examples](#examples)
   - [Author Information](#author-information)
   - [License](#license)
 
-## Reading material
+## Examples
 
-This section is a collection of links that will help you make the most of today's session.
+* [CLI Enhancement: Provider Lock files](https://github.com/ksatirli/whats-new-with-terraform-014/tree/main/terraform-init)
+* [Core Enhancement: Mark variables as sensitive](https://github.com/ksatirli/whats-new-with-terraform-014/tree/main/sensitive-variables)
+* [Core Enhancement: Reading and Writing State files from multiple versions](https://github.com/ksatirli/whats-new-with-terraform-014/tree/main/reading-state-files)
+* [Enhancements: `alltrue and `anytrue`](https://github.com/ksatirli/whats-new-with-terraform-014/tree/main/alltrue-anytrue)
 
 ## Author Information
 
