@@ -5,7 +5,7 @@ From the Terraform `0.14` [CHANGELOG](https://github.com/hashicorp/terraform/blo
 > `alltrue` and `anytrue` are intended to allow evaluating boolean conditions, such as in variable validation blocks, across all of the items in a collection.
 
 * Terraform documentation: [Function: `alltrue`](https://www.terraform.io/docs/configuration/functions/alltrue.html), [Function: `anytrue`](https://www.terraform.io/docs/configuration/functions/anytrue.html)
-* GitHub PR(s) / Issue(s): [#25656](https://github.com/hashicorp/terraform/issue/25656), [#26498](https://github.com/hashicorp/terraform/issue/26498)
+* GitHub PR(s) / Issue(s): [#25656](https://github.com/hashicorp/terraform/issues/25656), [#26498](https://github.com/hashicorp/terraform/issues/26498)
 
 ---
 
