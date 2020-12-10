@@ -1,5 +1,5 @@
 variable "ami_identifier" {
-  type = string
+  type        = string
   description = "Amazon EC2 AMI Identifier"
 
   validation {
@@ -13,7 +13,7 @@ variable "ami_identifier" {
 }
 
 variable "machine_type" {
-  type = string
+  type        = string
   description = "Amazon EC2 Machine Type"
 
   validation {

@@ -9,6 +9,6 @@ output "pet_door_mode" {
 # }
 
 output "pet_door_code" {
-  value = var.pet_door_code
+  value     = var.pet_door_code
   sensitive = true
 }
