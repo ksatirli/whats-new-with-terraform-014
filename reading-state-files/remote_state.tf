@@ -14,7 +14,6 @@ data "terraform_remote_state" "from_014" {
   }
 }
 
-
 output "terraform_013_pet" {
   value = data.terraform_remote_state.from_013.outputs.pet_identifier
 }
